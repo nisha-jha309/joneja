@@ -1,16 +1,35 @@
-# React + Vite
+# Joneja Steels
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive corporate interface developed for a steel manufacturing company.
 
-Currently, two official plugins are available:
+## Live Demo :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://joneja.vercel.app/
 
-## React Compiler
+## Built With :
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* CSS
+* Responsive Design
 
-## Expanding the ESLint configuration
+## Features : 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive corporate layout
+* Modern and clean UI
+* Structured content sections
+* Responsive navigation
+* Smooth interactions and transitions
+* Mobile, tablet and desktop support
+
+## Responsive Design :
+
+The interface is optimized for different screen sizes, providing a consistent user experience across desktop, tablet, and mobile devices.
+
+## Project Focus:
+
+The project focuses on building a professional corporate web presence with clear visual hierarchy, clean layouts, and an engaging user experience.
+
+## Author:
+
+**Nisha Jha**
+Frontend Developer
